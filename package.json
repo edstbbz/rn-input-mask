@@ -1,6 +1,6 @@
 {
   "name": "rn-input-mask",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "description": "Text input mask for React Native.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
