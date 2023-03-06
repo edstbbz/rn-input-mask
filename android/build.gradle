@@ -27,10 +27,9 @@ android {
 
 buildscript {
     ext {
-        kotlinVersion = '1.4.31'
+        kotlinVersion = safeExtGet('kotlinVersion', '1.5.20')
     }
     repositories {
-        jcenter()
         google()
         mavenCentral()
     }
@@ -41,7 +40,6 @@ buildscript {
 }
 
 repositories {
-    jcenter()
     google()
     mavenCentral()
     maven {

@@ -1,12 +1,12 @@
 {
-  "name": "react-native-text-input-mask",
-  "version": "3.1.4",
+  "name": "rn-input-mask",
+  "version": "3.2.0",
   "description": "Text input mask for React Native.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-text-input-mask"
+    "url": "https://github.com/edstbbz/rn-input-mask"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
   "peerDependencies": {
     "react-native": ">=0.62.2"
   },
-  "author": "Martin Treurnicht",
+  "author": "edstubbz",
   "bugs": {
-    "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
+    "url": "https://github.com/edstbbz/rn-input-mask"
   },
-  "homepage": "https://github.com/react-native-community/react-native-text-input-mask"
+  "homepage": "https://github.com/edstbbz/rn-input-mask"
 }
